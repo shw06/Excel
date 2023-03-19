@@ -1,1 +1,3 @@
-This folder contains all the spreadsheets that I made as a practice in my data analytics journey.
+<h1>Excel Projects</h1>
+This folder contains Excel projects that showcase various skills in Excel.
+
